@@ -1,0 +1,13 @@
+roles:
+  Artemis:
+    description: ...
+    items:
+      - artemis1
+      - artemis2
+    effects:
+      - SPEED
+  Hades:
+    description: ...
+    items:
+      - hades1
+      - hades2

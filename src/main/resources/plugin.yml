@@ -1,0 +1,15 @@
+name: Mythologie UHC
+version: '1.0'
+main: fr.xelasflame.mythologieuhc.Main
+api-version: 1.8.8
+authors: [Xelasflame]
+description: Mythologie uhc de Xelasflame
+commands:
+  host:
+    description: gère les commandes relatives a la gestion de l' uhc
+  m:
+    description: gère les commandes relatives a hxh uhc
+permissions:
+  mythologieuhc.host:
+    description: Permissions pour les commandes host
+    default : op
